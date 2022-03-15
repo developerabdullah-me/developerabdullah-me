@@ -9,7 +9,7 @@
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white;)
 
-![Abdullah's github activity graph](https://activity-graph.herokuapp.com/graph?username=developerabdullah-me&bg_color=ffffff&color=010203&line=0ebaec&point=1adbce&area=true&hide_border=true)](https://github.com/developerabdullah-me/github-readme-activity-graph&theme=light&width=33)
+![Abdullah's github activity graph](https://activity-graph.herokuapp.com/graph?username=developerabdullah-me&bg_color=ffffff&color=010203&line=0ebaec&point=1adbce&area=true&hide_border=true)](https://github.com/developerabdullah-me/github-readme-activity-graph&theme=light&width=33px)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developerabdullah-me&theme=vue"> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=developerabdullah-me">
