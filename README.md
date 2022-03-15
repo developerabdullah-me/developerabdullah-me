@@ -1,6 +1,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=developerabdullah-me&show_icons=true&theme=light&line_height=33"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerabdullah-me&theme=light&hide_langs_below=1">
-</hr>
-</hr>
+
+<hr>
+
+<hr>
+
  ![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
