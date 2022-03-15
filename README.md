@@ -16,10 +16,10 @@
 ![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)&nbsp;
 ![PINTEREST](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)&nbsp;
 
-[![Abdullah's github activity graph](https://activity-graph.herokuapp.com/graph?username=developerabdullah-me&bg_color=ffffff&color=010203&line=0ebaec&point=1adbce&area=true&hide_border=true)](https://github.com/developerabdullah-me/github-readme-activity-graph)
+![Abdullah's github activity graph](https://activity-graph.herokuapp.com/graph?username=developerabdullah-me&bg_color=ffffff&color=010203&line=0ebaec&point=1adbce&area=true&hide_border=true)](https://github.com/developerabdullah-me/github-readme-activity-graph)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developerabdullah-me&theme=vue">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=developerabdullah-me">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=developerabdullah-me&light&line_height=33">
 
 
