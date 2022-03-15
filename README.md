@@ -1,5 +1,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=developerabdullah-me&show_icons=true&theme=light&line_height=33"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerabdullah-me&theme=light&hide_langs_below=1">
-
+</hr>
+</hr>
  ![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
@@ -9,7 +10,7 @@
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white;)
 
-![Abdullah's github activity graph](https://activity-graph.herokuapp.com/graph?username=developerabdullah-me&bg_color=ffffff&color=010203&line=0ebaec&point=1adbce&area=true&hide_border=true)](https://github.com/developerabdullah-me/github-readme-activity-graph&theme=light&width=33px)
+![Abdullah's github activity graph](https://activity-graph.herokuapp.com/graph?username=developerabdullah-me&bg_color=ffffff&color=010203&line=0ebaec&point=1adbce&area=true&hide_border=true)](https://github.com/developerabdullah-me/github-readme-activity-graph)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developerabdullah-me&theme=vue"> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=developerabdullah-me">
